@@ -14,7 +14,7 @@ h1{
   float: left;
   margin-left: 1%;
   margin-top: 4px;
-  font-family: 'Bahnschrift SemiBold', cursive;
+  font-family: 'Bahnschrift SemiBold';
   color: #39ca74;
 }
 
@@ -27,7 +27,7 @@ h2{
 
 h3{
   text-align: center;
-  font-family: 'Bahnschrift SemiBold', cursive;
+  font-family: 'Bahnschrift SemiBold';
   font-size: 50px;
 }
 
@@ -61,7 +61,7 @@ a{
   text-align: center;
   color: $ffffff;
   text-decoration: none;
-  font-family: 'Bahnschrift SemiBold', cursive;
+  font-family: 'Bahnschrift SemiBold';
   font-size: 20px;
 
 }
