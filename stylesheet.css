@@ -123,3 +123,13 @@ li{
   color: white;
 }
 
+a{
+  color: white;
+}
+a.visited{
+  color: white;
+}
+
+a:hover{
+  color: #39ca74;
+}
