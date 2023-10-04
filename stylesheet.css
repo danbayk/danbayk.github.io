@@ -9,6 +9,10 @@ header{
   background-color: #313131;
 }
 
+p{
+  text-align: center;
+}
+
 h1{
   position:  absolute;
   float: left;
